@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+div{
+    width: 100px;  
+    height: 100px;
+    position: absolute;
+}
+#vermelho{
+    background-color: red;
+    z-index: 3;
+}
+#verde{
+    background-color: green;
+    z-index: 2;
+}
+#azul{
+    background-color: blue;
+    z-index: 1;
+}
+#preto{
+    background-color: black;
+    z-index: 0;
+}

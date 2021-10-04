@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body{
+    background-color: cornflowerblue;
+}
+div{
+    width: 100px;  
+    height: 100px;
+    background-color: darkgoldenrod;
+}
+#topo_esq{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#topo_dir{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#base_esq{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+#base_dir{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+div{
+    width: 800px; height: 600px;
+    border: 1px solid #000;
+    background-image: url(../img/IMG_20181011_183305.jpg);
+    background-size: 25%;
+    background-repeat: repeat-y;
+}

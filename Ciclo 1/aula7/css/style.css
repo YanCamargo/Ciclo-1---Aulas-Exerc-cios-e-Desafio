@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+header{
+    width: 100%;
+    height: auto;
+    background-color: rgb(156, 0, 0);
+    color: white;
+    border-bottom: 3px solid black;
+}
+h1{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}

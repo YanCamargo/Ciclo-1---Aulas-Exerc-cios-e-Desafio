@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+#pai > #filha{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    border: 1 px solid coral;
+}

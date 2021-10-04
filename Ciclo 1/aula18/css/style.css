@@ -1,0 +1,32 @@
+html{
+    font-size: 30px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+article#elem_pai{
+    width: 100vw;
+    height: 100vh;
+    padding: 5px;
+    background-color: blanchedalmond;
+    font-size: 20px;
+}
+
+/* article#elem_pai p#elem_filho{
+    width: 100%;
+    height: auto;
+    background-color: coral;
+    font-size: 1em; /*em procura o elemento pai mais próximo para referência
+}*/
+
+/*article#elem_pai p#elem_filho{
+    width: 100%;
+    height: auto;
+    background-color: coral;
+    font-size: 2rem; /*Procura o root como referência
+}*/
+
